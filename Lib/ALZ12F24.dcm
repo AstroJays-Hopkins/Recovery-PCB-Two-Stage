@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ALZ12F24
+D General Purpose Relays 16A24VDC SPDT CLASS F
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS42/DSANUWW0054178.pdf
+$ENDCMP
+#
+#End Doc Library

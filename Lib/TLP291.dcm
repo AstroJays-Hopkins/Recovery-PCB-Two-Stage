@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLP291
+D Toshiba TLP291(BL,SE(T DC Input Phototransistor Output Photocoupler, Surface Mount, 4-Pin SO4
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-TOS/DSATOSJO10001087.pdf
+$ENDCMP
+#
+#End Doc Library

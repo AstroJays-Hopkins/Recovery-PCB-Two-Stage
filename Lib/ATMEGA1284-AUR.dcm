@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATMEGA1284-AUR
+D MICROCHIP - ATMEGA1284-AUR - 8 Bit MCU, AVR ATmega Family ATmega128 Series Microcontrollers, 20 MHz, 128 KB, 16 KB, 44 Pins
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590464
+$ENDCMP
+#
+#End Doc Library

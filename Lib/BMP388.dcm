@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BMP388
+D Board Mount Pressure Sensors MEMS Absolute Barometric Pressure Sensor
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-39/10253.pdf
+$ENDCMP
+#
+#End Doc Library
