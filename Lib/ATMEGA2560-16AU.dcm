@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATMEGA2560-16AU
+D ATMEGA2560-16AU, 8 bit AVR Microcontroller 16MHz 4, 256kb Flash, 8kb RAM, I2C SPI 100-Pin TQFP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/4a5a397fa76c39b5297f4121ace1d84e.pdf
+$ENDCMP
+#
+#End Doc Library
