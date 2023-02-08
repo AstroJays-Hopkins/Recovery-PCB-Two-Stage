@@ -5,4 +5,7 @@
   (lib (name "MEM2075-00-140-01-A")(type "KiCad")(uri "${KIPRJMOD}/Lib/MEM2075-00-140-01-A.kicad_sym")(options "")(descr ""))
   (lib (name "MPU-6050")(type "KiCad")(uri "${KIPRJMOD}/Lib/MPU-6050.kicad_sym")(options "")(descr ""))
   (lib (name "ATMEGA1284-AUR")(type "KiCad")(uri "${KIPRJMOD}/Lib/ATMEGA1284-AUR.kicad_sym")(options "")(descr ""))
+  (lib (name "ATMEGA2560-16AU")(type "KiCad")(uri "${KIPRJMOD}/Lib/ATMEGA2560-16AU.kicad_sym")(options "")(descr ""))
+  (lib (name "RFM95W-868S2")(type "KiCad")(uri "${KIPRJMOD}/Lib/RFM95W-868S2.kicad_sym")(options "")(descr ""))
+  (lib (name "TXB0108PWR")(type "KiCad")(uri "${KIPRJMOD}/Lib/TXB0108PWR.kicad_sym")(options "")(descr ""))
 )
