@@ -1,4 +1,4 @@
-20598871125706527
+20612275059683049
 Attiny414
 SOIC127P600X175-14N
 14 Lead Small Outline (SL) Narrow SOIC
@@ -52430,12 +52430,68 @@ emi filter
 5
 5
 Footprint
+ALZ12F24
+ALZ12F24-1
+Relay or Contactor
+0
+8
+8
+Footprint
 BMP388
 BMP388
 Integrated Circuit
 0
 10
 10
+Footprint
+MEM20750014001A
+MEM2075-00-140-01-A-1
+Connector
+0
+13
+13
+Footprint
+MPU6050
+MPU-6050-4
+Integrated Circuit
+0
+25
+25
+Footprint
+QFP50P1600X1600X120-100N
+10018783-11100TLF
+Integrated Circuit
+0
+100
+100
+Footprint
+QFP80P1200X1200X120-44N
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP]
+Integrated Circuit
+0
+44
+44
+Footprint
+SOIC127P700X230-4N
+11-3C1
+Integrated Circuit
+0
+4
+4
+Footprint
+SOP65P640X120-20N
+PW0020A
+Integrated Circuit
+0
+20
+20
+Footprint
+XCVR_RFM95W-868S2
+
+
+0
+16
+16
 Fuse
 Fuse_0402_1005Metric
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
