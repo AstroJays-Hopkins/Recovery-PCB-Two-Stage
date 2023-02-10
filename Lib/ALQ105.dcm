@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ALQ105
+D SPDT PCB Mount Non-Latching Relay 10 A, 5V dc
+K
+F https://na.industrial.panasonic.com/products/relays/mechanical-power-relays/general/series/lq-relays/2635/model/ALQ105
+$ENDCMP
+#
+#End Doc Library

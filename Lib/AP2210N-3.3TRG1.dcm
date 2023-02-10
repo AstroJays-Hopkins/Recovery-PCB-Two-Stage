@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2210N-3.3TRG1
+D DiodesZetex AP2210N-3.3TRG1, Low Noise LDO Voltage Regulator, 300mA, 3.3 V +/-2%, 2.5  13.2 Vin, 3-Pin SOT-23
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/11c7b06ddc65ce3f1395e62eca004054.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NEO-6M-0
+D Module: GPS; +/-2m; NMEA,RTCM,UBX; -161dBm; 2.7~3.6VDC; SMD; -40~85C
+K
+F https://content.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_%28GPS.G6-HW-09005%29.pdf
+$ENDCMP
+#
+#End Doc Library

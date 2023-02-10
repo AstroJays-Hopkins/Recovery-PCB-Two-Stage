@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP716BCSN330T1G
+D LDO Voltage Regulators WIDE VIN LDO LINEAR VOLTAGE REGULATOR 3V3 VERSION
+K
+F https://www.onsemi.com/pdf/datasheet/ncp716bc-d.pdf
+$ENDCMP
+#
+#End Doc Library

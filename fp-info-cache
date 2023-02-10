@@ -1,4 +1,4 @@
-20612275059683049
+20618979112926878
 Attiny414
 SOIC127P600X175-14N
 14 Lead Small Outline (SL) Narrow SOIC
@@ -52430,6 +52430,13 @@ emi filter
 5
 5
 Footprint
+ALQ105
+ALQ105
+Relay or Contactor
+0
+5
+5
+Footprint
 ALZ12F24
 ALZ12F24-1
 Relay or Contactor
@@ -52458,6 +52465,13 @@ Integrated Circuit
 25
 25
 Footprint
+NEO6M0
+NEO-6M-0-2
+Integrated Circuit
+0
+24
+24
+Footprint
 QFP50P1600X1600X120-100N
 10018783-11100TLF
 Integrated Circuit
@@ -52485,6 +52499,20 @@ Integrated Circuit
 0
 20
 20
+Footprint
+SOT95P275X110-5N
+TSOP−5 CASE  483 ISSUE N
+Integrated Circuit
+0
+5
+5
+Footprint
+SOT95P280X145-3N
+SOT-23-3
+Integrated Circuit
+0
+3
+3
 Footprint
 XCVR_RFM95W-868S2
 
