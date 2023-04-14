@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMC5983MA
+D 3-AXIS MAGNETIC SENSOR
+K
+F https://www.mouser.com/datasheet/2/821/Memsic_09102019_MMC5983MA_Datasheet_Rev_A-1635338.pdf
+$ENDCMP
+#
+#End Doc Library

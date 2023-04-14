@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "ALQ105")(type "KiCad")(uri "/home/mac/Desktop/astrojays/new/Recovery_DoubleStage/Lib/ALQ105.kicad_sym")(options "")(descr ""))
+  (lib (name "ALZ12F24")(type "KiCad")(uri "/home/mac/Desktop/astrojays/new/Recovery_DoubleStage/Lib/ALZ12F24.kicad_sym")(options "")(descr ""))
+  (lib (name "AP2210N-3.3TRG1")(type "KiCad")(uri "/home/mac/Desktop/astrojays/new/Recovery_DoubleStage/Lib/AP2210N-3.3TRG1.kicad_sym")(options "")(descr ""))
+  (lib (name "custom")(type "KiCad")(uri "/home/mac/Desktop/astrojays/new/Recovery_DoubleStage/Lib/custom.kicad_sym")(options "")(descr ""))
+  (lib (name "NCP716BCSN330T1G")(type "KiCad")(uri "/home/mac/Desktop/astrojays/new/Recovery_DoubleStage/Lib/NCP716BCSN330T1G.kicad_sym")(options "")(descr ""))
+  (lib (name "TXB0108PWR")(type "KiCad")(uri "/home/mac/Desktop/astrojays/new/Recovery_DoubleStage/Lib/TXB0108PWR.kicad_sym")(options "")(descr ""))
+)

@@ -46,11 +46,11 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "AP2210N-3.3TRG1_0_0"
-      (pin passive line (at 13.97 7.62 270) (length 5.08)
+      (pin power_in line (at 13.97 7.62 270) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -2.54 0) (length 5.08)
+      (pin power_out line (at 0 -2.54 0) (length 5.08)
         (name "VOUT" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
