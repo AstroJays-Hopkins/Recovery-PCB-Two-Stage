@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PS2801C-4-F3-A
+D These products are optically coupled isolators containing a GaAs light emitting diode and an NPN silicon phototransistor in a plastic SSOP for high density applications to realize an excellent cost performance. This package has shield effect to cut off ambient light.
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA15/788901.pdf
+$ENDCMP
+#
+#End Doc Library

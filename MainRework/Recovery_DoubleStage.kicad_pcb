@@ -2120,7 +2120,7 @@
 
   (footprint "Footprint:RF_Solutions_Ltd.-CON-SMA-EDGE-S-MFG" (layer "F.Cu")
     (tedit 5EF14335) (tstamp 87f99426-8ac9-44a1-8410-43f917429d69)
-    (at 107.917 78.9432 -90)
+    (at 118.258 79.0448 -90)
     (property "Sheetfile" "Recovery_DoubleStage.kicad_sch")
     (property "Sheetname" "")
     (path "/e08629b1-966c-4c00-aef0-5d56c93affcb")
@@ -2504,7 +2504,7 @@
 
   (footprint "Footprint:RF_Solutions_Ltd.-CON-SMA-EDGE-S-MFG" (layer "F.Cu")
     (tedit 5EF14335) (tstamp ac5479cb-e1e1-4240-a879-575115c38388)
-    (at 107.95 25.654 -90)
+    (at 117.496 25.654 -90)
     (property "Sheetfile" "Recovery_DoubleStage.kicad_sch")
     (property "Sheetname" "")
     (path "/b69a8b18-4bfe-4400-b662-0d911271fda1")
