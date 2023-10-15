@@ -1,4 +1,4 @@
-20627290658870835
+20630685613246560
 Attiny414
 SOIC127P600X175-14N
 14 Lead Small Outline (SL) Narrow SOIC
@@ -52437,6 +52437,13 @@ Relay or Contactor
 5
 5
 Footprint
+AMASS_XT60PW-M
+
+
+0
+4
+4
+Footprint
 BMP388
 BMP388
 Integrated Circuit
@@ -52450,6 +52457,13 @@ Undefined or Miscellaneous
 0
 3
 3
+Footprint
+G6RL1DC5
+G6RL-1 DC5-1
+Connector
+0
+5
+5
 Footprint
 MEM20750014001A
 MEM2075-00-140-01-A-1

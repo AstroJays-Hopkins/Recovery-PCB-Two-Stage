@@ -474,6 +474,10 @@
     [
       "644b5bf1-64af-4d2e-9ab8-6180997023d7",
       "microcontroller"
+    ],
+    [
+      "92d25b8a-743a-476e-b41d-a26126ae163c",
+      "igniter"
     ]
   ],
   "text_variables": {}
