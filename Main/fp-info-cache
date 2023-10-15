@@ -1,4 +1,4 @@
-20630685613246560
+20632405947810986
 Attiny414
 SOIC127P600X175-14N
 14 Lead Small Outline (SL) Narrow SOIC
@@ -52528,12 +52528,26 @@ RF_Solutions_Ltd.-CON-SMA-EDGE-S-MFG
 5
 5
 Footprint
+SHDR6W100P0X508_1X6_3048X820X1000P
+TB006-508-06BE
+Connector
+0
+6
+6
+Footprint
 SOIC127P700X230-4N
 11-3C1
 Integrated Circuit
 0
 4
 4
+Footprint
+SOIC127P700X230-16N
+PS2801C-4
+Integrated Circuit
+0
+16
+16
 Footprint
 SOP65P640X120-20N
 PW0020A
@@ -79477,13 +79491,6 @@ rotary encoder
 0
 5
 4
-S8411-45R
-S8411-45R_1
-S8411-45R_1
-Undefined or Miscellaneous
-0
-2
-2
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
